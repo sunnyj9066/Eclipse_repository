@@ -6,7 +6,7 @@ public class Example {
 		System.out.println("I am sunny");
 		System.out.println("This is my 1st");
 		System.out.println("This is my third build");
-		System.out.println("This is my 4th build")
+		System.out.println("This is my 4th build");
 	}
 
 }
